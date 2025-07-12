@@ -45,8 +45,8 @@ Clone the repository:
 ```
 git clone https://github.com/armin1380/SubEmbed.git
 cd YourRepositoryName
-Install the required libraries:
 ```
+Install the required libraries:
 Bash
 ```
 pip install customtkinter
@@ -66,8 +66,8 @@ Make sure you have all the necessary libraries installed, including PyInstaller:
 Bash
 ```
 pip install customtkinter pyinstaller
-Navigate to the project directory in your terminal.
 ```
+Navigate to the project directory in your terminal.
 Run the pyinstaller command. The following command is recommended for creating a clean, single-file executable with a custom name and icon:
 
 Bash
