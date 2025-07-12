@@ -1,0 +1,11 @@
+# PyInstaller files
+/dist/
+/build/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# User-specific config file
+config.json
