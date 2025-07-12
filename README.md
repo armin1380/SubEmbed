@@ -1,4 +1,4 @@
-MKV Subtitle Embedder
+##SubEmbed
 A user-friendly desktop application for easily embedding subtitle files (.srt, .ass, etc.) into video files (.mkv, .mp4). This tool is designed for batch processing and handles various languages and text encodings gracefully.
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/6ccfdd1c-5c55-41fa-8b8e-5e7b2c5a86a9" />
